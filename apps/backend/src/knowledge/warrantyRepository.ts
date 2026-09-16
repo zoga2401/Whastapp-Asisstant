@@ -1,0 +1,1 @@
+export { findWarranties } from './knowledgeRepository';

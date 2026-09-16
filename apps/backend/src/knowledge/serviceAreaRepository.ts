@@ -1,0 +1,1 @@
+export { findServiceAreas } from './knowledgeRepository';

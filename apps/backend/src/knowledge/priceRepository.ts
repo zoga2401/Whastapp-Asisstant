@@ -1,0 +1,1 @@
+export { findPrices } from './knowledgeRepository';

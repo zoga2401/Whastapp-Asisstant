@@ -1,0 +1,1 @@
+export { findFaq } from './knowledgeRepository';
